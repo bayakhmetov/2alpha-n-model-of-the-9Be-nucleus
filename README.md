@@ -19,4 +19,6 @@ beta - coefficients of gaussian expansion for the relative coordinate of the cen
 
 cgamma - eigenvectors
 
-PS radial part of the wave function of relative motion in 9Be is represented by gaussians: cgamma_i*(x^lam_i)*(y^lmal_i)*exp(alpha_i*x^2)*exp(beta_i*y^2) 
+PS radial part of the wave function of relative motion in 9Be is represented by gaussians: 
+
+cgamma_i*(x^lam_i) * (y^lmal_i) * exp(alpha_i * x^2) * exp(beta_i * y^2)
