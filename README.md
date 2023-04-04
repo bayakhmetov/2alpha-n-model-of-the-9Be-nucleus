@@ -23,6 +23,6 @@ cgamma - eigenvectors
 
 PS radial part of the wave function of relative motion in 9Be is represented by gaussians: 
 
-R(x, y) = cgamma_i * (x^lam_i) * (y^lmal_i) * exp(alpha_i * x^2) * exp(beta_i * y^2)
+R(x, y) = cgamma_i * (x^lam_i) * (y^lmal_i) * exp(-alpha_i * x^2) * exp(-beta_i * y^2)
 
 x - Jacobi coordinate between 2 alpha-particles, y - between the centre of mass of 2 alpha-particles and the neutron
